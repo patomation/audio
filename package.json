@@ -1,7 +1,7 @@
 {
-  "name": "npm-package-starter",
+  "name": "@patomation/audio",
   "version": "0.0.0",
-  "description": "Javascript + Webpack vanilla starter project",
+  "description": "A micro web audio api wrapper",
   "main": "src/index.ts",
   "scripts": {
     "compile:tests": "tsc --project tsconfig.test.json",
